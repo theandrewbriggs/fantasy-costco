@@ -4,6 +4,7 @@
     - [ ] Stats (strength, dexterity, constitution, intelligence, wisdom, charisma)
     - [ ] HP, hit die, AC
     - [ ] OneToMany w/ Spells
+    - [ ] Figure out relationships with things like Background, Race, and Class
 
 
 - [ ] Create Spells Class
